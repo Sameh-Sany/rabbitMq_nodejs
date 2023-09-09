@@ -10,7 +10,7 @@ This is a simple example of how to use RabbitMQ with NodeJS
 - RabbitMQ
 - ExpressJS
 - Docker
-- Nodemon
+
 
 ## Installation
 
